@@ -2,25 +2,25 @@
     "GIPArchives": [
       {
         "ItemID": 0,
-        "ItemName": "skyfall",
-        "Description": "james bond movie",
-        "BannerImgURL": "http://www.dope.com/dope.png",
-        "ThumbnailImgURL": "http://www.dope.com/dope.png",
+        "ItemName": "It's a start",
+        "Description": "It’s a start is a point and click interactive drama game that focuses on the relationship and communication between a parent and a daughter, where the player takes the role of a good-willed but flawed father. It has a conversation system and branching elements that will result in different endings depending on how what choice players takes. The game has 3 acts, the first act is about set up in which the father comes home and realizes that the daughter is drunk and just vomited. The second act is about confrontation and having difficult conversation with your daughter that scales out of control. The third act is about resolve and resolution between the father and the daughter.",
+        "BannerImgURL": "https://dannychow78.github.io/images/itsastart_banner.jpg",
+        "ThumbnailImgURL": "https://dannychow78.github.io/images/itsastart_icon.jpg",
         "AvailableInAppStore": true,
-        "AvailableInPlayStore": true,
+        "AvailableInPlayStore": false,
         "AvailableInSteam": false,
         "AvailableInWindows": false
       },
       {
         "ItemID": 1,
-        "ItemName": "skyfall2",
-        "Description": "james bond movie2",
-        "BannerImgURL": "http://www.dope.com/dope.png",
-        "ThumbnailImgURL": "http://www.dope.com/dope.png",
-        "AvailableInAppStore": true,
-        "AvailableInPlayStore": true,
+        "ItemName": "Portrayed",
+        "Description": "Portrayed is a 3D isometric stealth exploration game. Players fill the role of Zachary, a man who has lost all his memories, and attempt to discover the real truths about his past amidst the various lies and deceptions that surround him.",
+        "BannerImgURL": "https://dannychow78.github.io/images/portrayed_banner.jpg",
+        "ThumbnailImgURL": "https://dannychow78.github.io/images/portrayed_icon.jpg",
+        "AvailableInAppStore": false,
+        "AvailableInPlayStore": false,
         "AvailableInSteam": false,
-        "AvailableInWindows": false
+        "AvailableInWindows": true
       }
     ]
   }
