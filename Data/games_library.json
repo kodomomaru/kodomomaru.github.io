@@ -21,6 +21,17 @@
         "AvailableInPlayStore": false,
         "AvailableInSteam": false,
         "AvailableInWindows": true
+      },
+      {
+        "ItemID": 2,
+        "ItemName": "Stones of Samitari",
+        "Description": "Stones of Samitari is a top-down stealth adventure game with JRPG elements. 5 years ago, Obsidia village was attacked by monsters and the village lost everything, mines, houses and lives. Play as Amber and take back what is rightfully the village’s from the monsters. Your actions influence the world Amber lives in and the treatment she receives. Will you be their hero?",
+        "BannerImgURL": "https://dannychow78.github.io/images/sos_banner.jpg",
+        "ThumbnailImgURL": "https://dannychow78.github.io/images/sos_icon.png",
+        "AvailableInAppStore": false,
+        "AvailableInPlayStore": false,
+        "AvailableInSteam": false,
+        "AvailableInWindows": true
       }
     ]
   }
