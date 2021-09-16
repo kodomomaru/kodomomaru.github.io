@@ -32,6 +32,39 @@
         "AvailableInPlayStore": false,
         "AvailableInSteam": false,
         "AvailableInWindows": true
+      },
+      {
+        "ItemID": 3,
+        "ItemName": "Pixie Drop",
+        "Description": "Pixie Drop is a Rube Goldberg style game where the player will equip and guide Pixie adventurers through a series of platforming puzzles, to reach the malevolent creatures harming the World Tree. Place and chain contraptions, segment your Pixies, then bounce, shoot, climb, drop, teleport and fling them through puzzles you create!",
+        "BannerImgURL": "https://dannychow78.github.io/images/pixiedrop_banner.jpg",
+        "ThumbnailImgURL": "https://dannychow78.github.io/images/pixiedrop_icon.png",
+        "AvailableInAppStore": false,
+        "AvailableInPlayStore": false,
+        "AvailableInSteam": false,
+        "AvailableInWindows": true
+      },
+      {
+        "ItemID": 3,
+        "ItemName": "A Hunter's Tale",
+        "Description": "A Hunter’s Tale is a casual strategy game where the player takes on the role of a lone spearman hunting exotic creatures for a living, and elves deeply into preparation for his hunts. Analysing creatures and their habitats, training and purchasing equipment from guilds and engaging in a turn-based battle against their selected prey, the player optimises their strategy to emerge victorious!",
+        "BannerImgURL": "https://dannychow78.github.io/images/hunterstale_banner.jpg",
+        "ThumbnailImgURL": "https://dannychow78.github.io/images/hunterstale_icon.png",
+        "AvailableInAppStore": false,
+        "AvailableInPlayStore": false,
+        "AvailableInSteam": false,
+        "AvailableInWindows": true
+      },
+      {
+        "ItemID": 3,
+        "ItemName": "Overpowered",
+        "Description": "Overpowered is a controller-based twin stick shooter/combat game, where the setting is a dystopian near-future. Every year, in a virtual gauntlet, brave citizens compete each other in an ultimate battle royale. In this Player vs Player top-down multiplayer arena combat game, each character has uniquely defined characteristics and skills to fight with. Duke it out in various arenas where hazards can be an opening or a devastating mistake. Showcase your skills to the world with a character that suits your playstyle!",
+        "BannerImgURL": "https://dannychow78.github.io/images/overpowered_banner.jpg",
+        "ThumbnailImgURL": "https://dannychow78.github.io/images/overpowered_icon.png",
+        "AvailableInAppStore": false,
+        "AvailableInPlayStore": false,
+        "AvailableInSteam": false,
+        "AvailableInWindows": true
       }
     ]
   }
