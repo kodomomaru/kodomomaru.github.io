@@ -3,7 +3,7 @@
 "productName": "ARWT",
 "productVersion": "0.1",
 "dataUrl": "ARWT.data.unityweb",
-"wasmCodeUrl": "ARWT.wasm",
+"wasmCodeUrl": "ARWT.wasm.code.unityweb",
 "wasmFrameworkUrl": "ARWT.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
